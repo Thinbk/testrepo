@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+div{
+	text-align:center;
+	background: -webkit-linear-gradient(bottom, #9F0, #CF0 175px);
+    background: -moz-linear-gradient(bottom, #9F0, #CF0 175px);
+    background: linear-gradient(bottom, #9F0, #CF0 175px);
+	border:medium;
+	height:200px;
+	width:300px;
+	font-family:inherit;
+}
+h1{
+	color:#C30;
+	font-family:Arial, Helvetica, sans-serif;
+
+}
